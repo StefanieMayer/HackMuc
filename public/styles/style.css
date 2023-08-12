@@ -11,6 +11,10 @@ h1{
     font-size: 40pt;
 }
 
+h3{
+    font-size:70pt;
+}
+
 .container{
     display: flex;
     gap: 40px;
