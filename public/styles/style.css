@@ -3,8 +3,21 @@ html{
     color: rgb(3, 35, 86);
     font-family: "Times New Roman", serif;
     text-align: center;
-    margin-right: 50px;
+    margin-right: 5px;
     margin-left: 50px;
+}
+
+*{
+    background-image: url("images/LogoIV.png");
+}
+
+#logo{
+    height: 100px;  
+}
+
+//placeholder{
+    color: rgb(229, 229, 255);
+    font-size: 200pt;
 }
 
 h1{
