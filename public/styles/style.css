@@ -1,12 +1,13 @@
 html{
-    background-color: rgb(228, 252, 255);
-    color: rgb(0, 10, 28);
+    background-color: rgb(229, 229, 255);
+    color: rgb(3, 35, 86);
+    font-family: "Times New Roman", serif;
     text-align: center;
     margin-right: 50px;
     margin-left: 50px;
 }
 
-.h1{
+h1{
     font-size: 40pt;
 }
 
@@ -31,8 +32,8 @@ html{
 }
 
 .pSize{
-    font-size: 15pt;
-    margin-right: 50px;
+    font-size: 25pt;
+    list-style-type: none;
 }
 
 img[src="./images/graph_sybil_attack_addressI.jpeg"]{
